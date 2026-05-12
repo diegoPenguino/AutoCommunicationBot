@@ -1,0 +1,10 @@
+fastapi[all]
+python-telegram-bot[webhooks,job-queue]
+openai
+pydantic-settings
+uvicorn
+httpx
+beautifulsoup4
+pandas
+sqlalchemy
+asyncpg
